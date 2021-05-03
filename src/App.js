@@ -8,17 +8,17 @@ function App() {
     {
            id : 1,
            text : 'doc appointment',
-           day: 'feb 5th at 2:30',
+           day: 'march 5th at 2:30',
            reminder : true,
    },{
        id:2,
        text : 'meetng at school',
-       day : 'feb 6th at 1:30pm',
+       day : 'march 6th at 1:30pm',
        reminder : true,
    },{
        id:3,
        text : 'food shoping',
-       day : 'feb 5th at 2:30pm',
+       day : 'march 5th at 2:30pm',
        reminder : false,
    }
 ])
